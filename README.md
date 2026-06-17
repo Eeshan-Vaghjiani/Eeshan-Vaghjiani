@@ -1,4 +1,4 @@
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:006d77,100:00b894&height=200&section=header&text=%20EESHAN%20VAGHJIANI%20&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20IoT%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=60&descColor=ffffff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:006d77,100:00b894&height=200&section=header&text=%20EESHAN%20VAGHJIANI%20&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=60&descColor=ffffff&animation=twinkling" />
 </p>
 
 
