@@ -11,6 +11,11 @@ A passionate full-stack developer from Kenya with expertise in building scalable
 - **Current Focus:** Building innovative IoT solutions with MicroPython and developing full-stack web applications using modern frameworks
 - **Learning & Exploration:** Diving deeper into cloud infrastructure (AWS, Azure, GCP), microservices architecture, and advanced IoT implementations
 - **Core Interests:** Full-Stack Development, Internet of Things (IoT), Cloud Computing, Database Design, and Software Engineering Best Practices
+- ---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Eeshan-Vaghjiani&label=Profile%20Views&color=006d77&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Eeshan-Vaghjiani?label=Followers&style=for-the-badge&logo=github&color=00b894" alt="GitHub Followers" />
+</p>
 
 ---
 
