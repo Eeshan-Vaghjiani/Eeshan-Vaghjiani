@@ -1,14 +1,16 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:203a43,100:2c5364&height=180&section=header&text=WELCOME+TO+MY+PROFILE&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full-Stack+Developer+|+IoT+Enthusiast+|+Problem+Solver&descAlignY=58&descColor=67e8f9&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:006d77,100:00b894&height=200&section=header&text=%20EESHAN%20VAGHJIANI%20&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20IoT%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=60&descColor=ffffff&animation=twinkling" />
 </p>
 
-# Hi there, I'm Eeshan Vaghjiani 👋
+
+
+
+# Hi there, I'm Eeshan Vaghjiani 
 
 A passionate full-stack developer from Kenya with expertise in building scalable web applications and exploring IoT solutions. I love tackling complex challenges and transforming ideas into functional, user-centric software. Currently pursuing my degree in Computer Science while actively contributing to diverse projects spanning web development, mobile applications, and embedded systems.
 
-- 🔭 **Current Focus:** Building innovative IoT solutions with MicroPython and developing full-stack web applications using modern frameworks
-- 🌱 **Learning & Exploration:** Diving deeper into cloud infrastructure (AWS, Azure, GCP), microservices architecture, and advanced IoT implementations
-- ⚡ **Core Interests:** Full-Stack Development, Internet of Things (IoT), Cloud Computing, Database Design, and Software Engineering Best Practices
+- **Current Focus:** Building innovative IoT solutions with MicroPython and developing full-stack web applications using modern frameworks
+- **Learning & Exploration:** Diving deeper into cloud infrastructure (AWS, Azure, GCP), microservices architecture, and advanced IoT implementations
+- **Core Interests:** Full-Stack Development, Internet of Things (IoT), Cloud Computing, Database Design, and Software Engineering Best Practices
 
 ---
 
@@ -32,26 +34,32 @@ A passionate full-stack developer from Kenya with expertise in building scalable
 ---
 
 ## GitHub Stats
-*Note: These data visualization modules automatically update in real time based on your active version control contributions.*
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eeshan-Vaghjiani&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=67e8f9&icon_color=67e8f9&text_color=ffffff" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Eeshan-Vaghjiani&show_icons=true&hide_border=true&bg_color=1a1a1a&title_color=00b894&icon_color=006d77&text_color=ffffff" alt="GitHub Stats" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eeshan-Vaghjiani&layout=compact&hide_border=true&bg_color=0f0c29&title_color=67e8f9&text_color=ffffff" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eeshan-Vaghjiani&layout=compact&hide_border=true&bg_color=1a1a1a&title_color=00b894&text_color=ffffff" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Eeshan-Vaghjiani&bg_color=0f0c29&color=67e8f9&line=2c5364&point=67e8f9&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://streak-stats.demolab.com/?user=Eeshan-Vaghjiani&theme=dark&background=1a1a1a&ring=006d77&fire=00b894&currStreakLabel=00b894&sideLabels=ffffff&currStreakNum=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak Stats" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Eeshan-Vaghjiani&bg_color=1a1a1a&color=00b894&line=006d77&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+</p>
+
+
+
 
 ---
 
 ## Connect With Me
 
-- 💼 **Professional Network:** [LinkedIn](https://www.linkedin.com/in/eeshan-vaghjiani/) | [LeetCode](https://leetcode.com/u/eeshan_4/)
-- 📧 **Direct Contact:** [evaghjiani04@gmail.com](mailto:evaghjiani04@gmail.com)
+- **Professional Network:** [LinkedIn](https://www.linkedin.com/in/eeshan-vaghjiani/) | [LeetCode](https://leetcode.com/u/eeshan_4/)
+- **Direct Contact:** [evaghjiani04@gmail.com](mailto:evaghjiani04@gmail.com)
 - 🌐 **GitHub:** [@Eeshan-Vaghjiani](https://github.com/Eeshan-Vaghjiani)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f0c29&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:006d77,100:00b894&height=120&section=footer" />
 </p>
+
