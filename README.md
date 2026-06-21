@@ -62,7 +62,6 @@ A passionate full-stack developer from Kenya with expertise in building scalable
 
 - **Professional Network:** [LinkedIn](https://www.linkedin.com/in/eeshan-vaghjiani/) | [LeetCode](https://leetcode.com/u/eeshan_4/)
 - **Direct Contact:** [evaghjiani04@gmail.com](mailto:evaghjiani04@gmail.com)
-- 🌐 **GitHub:** [@Eeshan-Vaghjiani](https://github.com/Eeshan-Vaghjiani)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:006d77,100:00b894&height=120&section=footer" />
