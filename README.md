@@ -3,7 +3,6 @@
 
 
 
-
 # Hi there, I'm Eeshan Vaghjiani 
 
 A passionate full-stack developer from Kenya with expertise in building scalable web applications and exploring IoT solutions. I love tackling complex challenges and transforming ideas into functional, user-centric software. Currently pursuing my degree in Computer Science while actively contributing to diverse projects spanning web development, mobile applications, and embedded systems.
