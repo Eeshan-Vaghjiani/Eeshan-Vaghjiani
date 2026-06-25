@@ -1,7 +1,4 @@
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,50:00b894,100:006d77&height=200&section=header&text=%20EESHAN%20VAGHJIANI%20&fontSize=42&fontColor=000000&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=60&descColor=000000&animation=twinkling" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:006d77,100:00b894&height=200&section=header&text=%20EESHAN%20VAGHJIANI%20&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=60&descColor=ffffff&animation=twinkling" alt="Header" />
-</picture>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:006d77,100:00b894&height=200&section=header&text=%20EESHAN%20VAGHJIANI%20&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=60&descColor=ffffff&animation=twinkling" />
 </p>
 
 
@@ -43,29 +40,17 @@ A passionate full-stack developer from Kenya with expertise in building scalable
 
 ## GitHub Stats
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Eeshan-Vaghjiani&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00b894&icon_color=006d77&text_color=ffffff" />
-    <img src="https://github-readme-stats.vercel.app/api?username=Eeshan-Vaghjiani&show_icons=true&hide_border=true&bg_color=1a1a1a&title_color=00b894&icon_color=006d77&text_color=ffffff" alt="GitHub Stats" />
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=Eeshan-Vaghjiani&show_icons=true&hide_border=true&bg_color=1a1a1a&title_color=00b894&icon_color=006d77&text_color=ffffff" alt="GitHub Stats" />
   &nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Eeshan-Vaghjiani&layout=compact&hide_border=true&bg_color=0d1117&title_color=00b894&text_color=ffffff" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eeshan-Vaghjiani&layout=compact&hide_border=true&bg_color=1a1a1a&title_color=00b894&text_color=ffffff" alt="Top Languages" />
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eeshan-Vaghjiani&layout=compact&hide_border=true&bg_color=1a1a1a&title_color=00b894&text_color=ffffff" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Eeshan-Vaghjiani&theme=dark&background=0d1117&ring=006d77&fire=00b894&currStreakLabel=00b894&sideLabels=ffffff&currStreakNum=ffffff&dates=ffffff&hide_border=true" />
-    <img src="https://streak-stats.demolab.com/?user=Eeshan-Vaghjiani&theme=dark&background=1a1a1a&ring=006d77&fire=00b894&currStreakLabel=00b894&sideLabels=ffffff&currStreakNum=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak Stats" />
-  </picture>
+  <img src="https://streak-stats.demolab.com/?user=Eeshan-Vaghjiani&theme=dark&background=1a1a1a&ring=006d77&fire=00b894&currStreakLabel=00b894&sideLabels=ffffff&currStreakNum=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Eeshan-Vaghjiani&bg_color=0d1117&color=00b894&line=006d77&point=ffffff&area=true&hide_border=true" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Eeshan-Vaghjiani&bg_color=1a1a1a&color=00b894&line=006d77&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
-  </picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Eeshan-Vaghjiani&bg_color=1a1a1a&color=00b894&line=006d77&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
 
 
