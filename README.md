@@ -39,9 +39,9 @@ A passionate full-stack developer from Kenya with expertise in building scalable
 
 ## GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eeshan-Vaghjiani&show_icons=true&hide_border=true&bg_color=1a1a1a&title_color=00b894&icon_color=006d77&text_color=ffffff" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-lac-three-97.vercel.app/api?username=eeshan-vaghjiani&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1a1a&title_color=00b894&icon_color=006d77&text_color=ffffff" alt="GitHub Stats" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eeshan-Vaghjiani&layout=compact&hide_border=true&bg_color=1a1a1a&title_color=00b894&text_color=ffffff" alt="Top Languages" />
+  <img src="https://github-readme-stats-lac-three-97.vercel.app/api/top-langs/?username=eeshan-vaghjiani&layout=compact&langs_count=8&hide_border=true&bg_color=1a1a1a&title_color=00b894&text_color=ffffff" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -49,8 +49,10 @@ A passionate full-stack developer from Kenya with expertise in building scalable
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Eeshan-Vaghjiani&bg_color=1a1a1a&color=00b894&line=006d77&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eeshan-vaghjiani&bg_color=1a1a1a&color=00b894&line=006d77&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
+
+
 
 
 
