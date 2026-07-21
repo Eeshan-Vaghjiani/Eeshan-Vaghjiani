@@ -45,7 +45,10 @@ A passionate full-stack developer from Kenya with expertise in building scalable
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Eeshan-Vaghjiani&theme=dark&background=1a1a1a&ring=006d77&fire=00b894&currStreakLabel=00b894&sideLabels=ffffff&currStreakNum=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak Stats" />
+  <img
+    src="https://streak-stats.vercel.app?user=Eeshan-Vaghjiani&theme=dark&background=1A1A1A&ring=006D77&fire=00B894&currStreakLabel=00B894&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&hide_border=true"
+    alt="Eeshan Vaghjiani's GitHub Streak Stats"
+  />
 </p>
 
 <p align="center">
