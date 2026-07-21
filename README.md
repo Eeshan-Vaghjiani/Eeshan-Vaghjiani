@@ -39,9 +39,9 @@ A passionate full-stack developer from Kenya with expertise in building scalable
 
 ## GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-lac-three-97.vercel.app/api?username=eeshan-vaghjiani&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1a1a&title_color=00b894&icon_color=006d77&text_color=ffffff" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eeshan04.vercel.app/api?username=eeshan-vaghjiani&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1a1a&title_color=00b894&icon_color=006d77&text_color=ffffff" alt="GitHub Stats" />
   &nbsp;
-  <img src="https://github-readme-stats-lac-three-97.vercel.app/api/top-langs/?username=eeshan-vaghjiani&layout=compact&langs_count=8&hide_border=true&bg_color=1a1a1a&title_color=00b894&text_color=ffffff" alt="Top Languages" />
+  <img src="https://github-readme-stats-eeshan04.vercel.app/api/top-langs/?username=eeshan-vaghjiani&layout=compact&langs_count=8&hide_border=true&bg_color=1a1a1a&title_color=00b894&text_color=ffffff" alt="Top Languages" />
 </p>
 
 <p align="center">
