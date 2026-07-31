@@ -39,20 +39,18 @@ A passionate full-stack developer from Kenya with expertise in building scalable
 
 ## GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-eeshan04.vercel.app/api?username=eeshan-vaghjiani&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1a1a&title_color=00b894&icon_color=006d77&text_color=ffffff" alt="GitHub Stats" />
+  <img width="57%"src="https://github-readme-stats-eeshan04.vercel.app/api?username=eeshan-vaghjiani&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1a1a&title_color=00b894&icon_color=006d77&text_color=ffffff" alt="GitHub Stats" />
   &nbsp;
-  <img src="https://github-readme-stats-eeshan04.vercel.app/api/top-langs/?username=eeshan-vaghjiani&layout=compact&langs_count=8&hide_border=true&bg_color=1a1a1a&title_color=00b894&text_color=ffffff" alt="Top Languages" />
+  <img width="38%"src="https://github-readme-stats-eeshan04.vercel.app/api/top-langs/?username=eeshan-vaghjiani&layout=compact&langs_count=8&hide_border=true&bg_color=1a1a1a&title_color=00b894&text_color=ffffff" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img
-    src="https://streak-stats.vercel.app?user=Eeshan-Vaghjiani&theme=dark&background=1A1A1A&ring=006D77&fire=00B894&currStreakLabel=00B894&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&hide_border=true"
-    alt="Eeshan Vaghjiani's GitHub Streak Stats"
-  />
+  <img width="95%" src="https://streak-stats.vercel.app?user=Eeshan-Vaghjiani&theme=dark&background=1A1A1A&ring=006D77&fire=00B894&currStreakLabel=00B894&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&hide_border=true"
+    alt="Eeshan Vaghjiani's GitHub Streak Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eeshan-vaghjiani&bg_color=1a1a1a&color=00b894&line=006d77&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=eeshan-vaghjiani&bg_color=1a1a1a&color=00b894&line=006d77&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
 
 
