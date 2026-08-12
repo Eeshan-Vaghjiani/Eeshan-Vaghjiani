@@ -45,12 +45,12 @@ A passionate full-stack developer from Kenya with expertise in building scalable
 </p>
 
 <p align="center">
-  <img width="95%" src="https://streak-stats.vercel.app?user=Eeshan-Vaghjiani&theme=dark&background=1A1A1A&ring=006D77&fire=00B894&currStreakLabel=00B894&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&hide_border=true"
+  <img width="95%" src="https://github-readme-stats-eeshan04.vercel.app/api/streak?user=eeshan-vaghjiani&theme=dark&background=1A1A1A&ring=006D77&fire=00B894&currStreakLabel=00B894&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&hide_border=true"
     alt="Eeshan Vaghjiani's GitHub Streak Stats"/>
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=eeshan-vaghjiani&bg_color=1a1a1a&color=00b894&line=006d77&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+  <img width="95%" src="https://github-readme-stats-eeshan04.vercel.app/api/activity?username=eeshan-vaghjiani&bg_color=1a1a1a&color=00b894&line=006d77&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
 
 
