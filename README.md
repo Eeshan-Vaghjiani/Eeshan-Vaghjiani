@@ -54,8 +54,9 @@ A passionate full-stack developer from Kenya with expertise in building scalable
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-stats-eeshan04.vercel.app/api/trophy?username=Eeshan-Vaghjiani&column=6&row=1&theme=gruvbox&margin-w=8&no-frame=false" alt="GitHub Trophies" />
+  <img width="95%" src="https://github-readme-stats-eeshan04.vercel.app/api/trophy?username=Eeshan-Vaghjiani&column=6&row=1&theme=gruvbox&margin-w=8" alt="GitHub Trophies" />
 </p>
+
 
 
 
